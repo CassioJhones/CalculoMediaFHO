@@ -1,0 +1,17 @@
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\bin\Debug\net6.0-windows\CalculoUNIP.exe
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\bin\Debug\net6.0-windows\CalculoUNIP.deps.json
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\bin\Debug\net6.0-windows\CalculoUNIP.runtimeconfig.json
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\bin\Debug\net6.0-windows\CalculoUNIP.dll
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\bin\Debug\net6.0-windows\CalculoUNIP.pdb
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Debug\net6.0-windows\CalculoUNIP.csproj.GenerateResource.cache
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Debug\net6.0-windows\CalculoUNIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Debug\net6.0-windows\CalculoUNIP.AssemblyInfoInputs.cache
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Debug\net6.0-windows\CalculoUNIP.AssemblyInfo.cs
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Debug\net6.0-windows\CalculoUNIP.csproj.CoreCompileInputs.cache
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Debug\net6.0-windows\CalculoUNIP.dll
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Debug\net6.0-windows\refint\CalculoUNIP.dll
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Debug\net6.0-windows\CalculoUNIP.pdb
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Debug\net6.0-windows\CalculoUNIP.genruntimeconfig.cache
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Debug\net6.0-windows\ref\CalculoUNIP.dll
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Debug\net6.0-windows\CalculoUNIP.Properties.Resources.resources
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Debug\net6.0-windows\CalculoUNIP.MediaUniararas.resources

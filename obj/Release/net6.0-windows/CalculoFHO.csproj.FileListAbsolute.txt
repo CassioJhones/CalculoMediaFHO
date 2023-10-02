@@ -1,0 +1,17 @@
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Release\net6.0-windows\CalculoUNIP.MediaUniararas.resources
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Release\net6.0-windows\CalculoFHO.Properties.Resources.resources
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Release\net6.0-windows\CalculoFHO.csproj.GenerateResource.cache
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Release\net6.0-windows\CalculoFHO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Release\net6.0-windows\CalculoFHO.AssemblyInfoInputs.cache
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Release\net6.0-windows\CalculoFHO.AssemblyInfo.cs
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Release\net6.0-windows\CalculoFHO.csproj.CoreCompileInputs.cache
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\bin\Release\net6.0-windows\CalculoFHO.exe
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\bin\Release\net6.0-windows\CalculoFHO.deps.json
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\bin\Release\net6.0-windows\CalculoFHO.runtimeconfig.json
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\bin\Release\net6.0-windows\CalculoFHO.dll
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\bin\Release\net6.0-windows\CalculoFHO.pdb
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Release\net6.0-windows\CalculoFHO.dll
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Release\net6.0-windows\refint\CalculoFHO.dll
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Release\net6.0-windows\CalculoFHO.pdb
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Release\net6.0-windows\CalculoFHO.genruntimeconfig.cache
+C:\Users\cassi\source\repos\CalculoUNIP\CalculoUNIP\obj\Release\net6.0-windows\ref\CalculoFHO.dll
